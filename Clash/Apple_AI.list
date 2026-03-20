@@ -2,9 +2,10 @@
 
 DOMAIN-KEYWORD, apple-intelligence
 
-DOMAIN-SUFFIX, guzzoni.apple.com
+DOMAIN, guzzoni.apple.com
 DOMAIN-SUFFIX, smoot.apple.com
 DOMAIN, apple-relay.cloudflare.com
 DOMAIN, apple-relay.fastly-edge.com
 DOMAIN, cp4.cloudflare.com
 DOMAIN, apple-relay.apple.com
+DOMAIN-SUFFIX, gspe1-ssl.ls.apple.com
