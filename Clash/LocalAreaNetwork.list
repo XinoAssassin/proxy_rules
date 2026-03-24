@@ -11,6 +11,11 @@ DOMAIN-SUFFIX,internal
 DOMAIN-SUFFIX,lan
 DOMAIN-SUFFIX,local
 DOMAIN-SUFFIX,localhost
+DOMAIN-SUFFIX,home.xinoassassin.me
+DOMAIN-SUFFIX,openclaw.xinoassassin.me
+DOMAIN-SUFFIX,immich.xinoassassin.me
+DOMAIN-SUFFIX,siyuan.xinoassassin.me
+DOMAIN-SUFFIX,md.xinoassassin.me
 IP-CIDR,0.0.0.0/8,no-resolve
 IP-CIDR,10.0.0.0/8,no-resolve
 IP-CIDR,100.64.0.0/10,no-resolve
